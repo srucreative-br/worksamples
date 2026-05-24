@@ -1,0 +1,5 @@
+site_name: My Docs
+nav:
+  Work samples: README.md
+theme:
+  name: material

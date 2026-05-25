@@ -1,3 +1,5 @@
+Hi there 👋
+---
 # About Me
 
 I am a Technical Writer with strong expertise in creating user-focused documentation for ERP applications, AI platforms, LMS, Banking, Healthcare, Cybersecurity, and Bot Builder. My experience spans across technical writing, docs-as-code workflows, automation scripting, and collaborating within Agile software development environments.

@@ -43,11 +43,10 @@ In addition to technical writing, I leverage Python and generative AI tools to i
 
 Some notable contributions include:
 
-* Automating the translation of chatbot and knowledge base articles into 77 languages using Python libraries
-* Reducing a week-long manual translation workflow into a process completed within a single day
-* Using generative AI tools to refine and optimize technical documentation while maintaining consistency and documentation standards
-* Supporting AI-powered applications including Automation (Dialog Builder) AI and Contact Center AI platforms
-* Collaboration & Product Understanding
+- Automated the translation of chatbot and knowledge base articles into 77 languages using Python libraries  
+- Reduced a week-long manual translation workflow to a process completed within a single day through automation  
+- Leveraged generative AI tools to refine and optimize technical documentation while ensuring consistency and adherence to documentation standards  
+- Automated table of contents (TOC) generation across Zendesk help center pages to improve navigation and user experience  
 
 I have collaborated closely with:
 

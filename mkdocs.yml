@@ -8,10 +8,6 @@ theme:
     - scheme: default
       primary: indigo
       accent: pink
-
-    - scheme: slate
-      primary: deep purple
-      accent: lime
       toggle:
         icon: material/weather-night
         name: Switch to dark mode

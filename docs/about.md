@@ -1,6 +1,6 @@
-Hi there 👋
----
-# About Me
+# Hi there 👋
+
+## Senior Technical Writer
 
 I am a Technical Writer with strong expertise in creating user-focused documentation for ERP applications, AI platforms, LMS, Banking, Healthcare, Cybersecurity, and Bot Builder. My experience spans across technical writing, docs-as-code workflows, automation scripting, and collaborating within Agile software development environments.
 

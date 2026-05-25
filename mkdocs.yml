@@ -4,7 +4,7 @@ site_url: https://srucreative-br.github.io/worksamples/
 
 nav:
   - Work samples: docs/README.md
-  - About: about.md
+  - About Me: about.md
 
 theme:
   name: material

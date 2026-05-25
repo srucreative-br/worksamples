@@ -3,8 +3,8 @@ site_name: My Docs
 site_url: https://srucreative-br.github.io/worksamples/
 
 nav:
-  - Work samples: README.md
   - About Me: about.md
+  - Work samples: README.md
 
 theme:
   name: material
